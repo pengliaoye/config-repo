@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "clazz": "com.robotaiot.smartgateway.commservices.DeviceInfoService",
+      "method": "getDeviceMAC"
+    }
+  ]
+}
