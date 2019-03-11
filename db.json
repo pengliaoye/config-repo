@@ -4,6 +4,11 @@
       "id": 1,
       "clazz": "com.robotaiot.smartgateway.commservices.DeviceInfoService",
       "method": "getDeviceMAC"
+    },
+    {
+      "id": 2,
+      "clazz": "com.robotaiot.smartgateway.commservices.DeviceService",
+      "method": "restart"
     }
   ]
 }
